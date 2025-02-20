@@ -15,7 +15,3 @@ I'm currently working on stochastic petri nets within the GPU using cuda.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=deekahy&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=deekahy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
