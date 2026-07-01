@@ -11,7 +11,7 @@
 - 🦀 **Rust** — small, sharp tools (CLIs, Discord bots, calculators).
 - ❄️ **NixOS** — my whole server is declarative and (mostly) doesn't rot.
 - 🏠 **Self-hosting** — a small fleet of tools running behind Caddy + Cloudflare.
-- 🎮 **GPU / C++ / CUDA** — stochastic Petri nets on the GPU, when uni demands it.
+- 🛠️ **C++** — lower-level bits and pieces when uni demands it.
 
 ### Things I've built
 
@@ -28,7 +28,6 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
