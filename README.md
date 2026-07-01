@@ -1,10 +1,42 @@
-# About Me:
-I'm currently working on stochastic petri nets within the GPU using cuda.
+<h1 align="center">Hey, I'm DeeKahy 👋</h1>
 
+<p align="center">
+  Rust, Nix, and a homelab I keep talking myself into expanding.
+</p>
 
-# Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deekahy&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=deekahy&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deekahy&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+### What I'm into
+
+- 🦀 **Rust** — small, sharp tools (CLIs, Discord bots, calculators).
+- ❄️ **NixOS** — my whole server is declarative and (mostly) doesn't rot.
+- 🏠 **Self-hosting** — a small fleet of tools running behind Caddy + Cloudflare.
+- 🎮 **GPU / C++ / CUDA** — stochastic Petri nets on the GPU, when uni demands it.
+
+### Things I've built
+
+| Project | What it is |
+| --- | --- |
+| [**CopyCat**](https://github.com/DeeKahy/CopyCat) | 🦀 Rust utility — my most-starred thing so far. |
+| [**poeGem**](https://github.com/DeeKahy/poeGem) | Works out the most profitable gem colour to transfigure in Path of Exile. |
+| [**RustBot**](https://github.com/DeeKahy/RustBot) | A Discord bot in Rust, running live on my server. |
+| [**BestNixOS**](https://github.com/DeeKahy/BestNixOS) | My NixOS config — a reproducible box that hosts everything above. |
+| [**random_countdowns**](https://github.com/DeeKahy/random_countdowns) | A silly little countdown thing that people actually starred. |
+
+### Tech I reach for
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deekahy&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekahy&theme=gruvbox&hide_border=true&layout=compact&langs_count=8" />
+</p>
