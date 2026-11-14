@@ -13,14 +13,6 @@
 
 <br/>
 
-## ⌨️ &nbsp;I live in Mitos
-
-<img src="assets/mitos.svg" alt="My code open in the Mitos editor" width="100%"/>
-
-<sub>[**Mitos**](https://mitos.computer) is a fast, minimal, selection-first modal editor written in Rust: a fork of Helix with built-in LSP and tree-sitter. It's my daily driver; my fork lives at [DeeKahy/mitos](https://github.com/DeeKahy/mitos).</sub>
-
-<br/>
-
 ## 🚀 &nbsp;Things I've built
 
 <table>
@@ -118,6 +110,16 @@ A Nix package for the Fluxer desktop client, laid out for upstreaming to nixpkgs
 ```
 
 All of `*.smallapp.cc` runs on a Proxmox box in my home. The VM that serves it is NixOS, declared in a single flake: every app is a flake input and a module, Caddy gets TLS certificates over Cloudflare DNS-01, and Prometheus and Grafana watch it. If the server dies, a rebuild brings everything back as it was.
+
+<br/>
+
+## ❄️ &nbsp;NixOS
+
+Everything I build ends up on [**NixOS**](https://nixos.org). Each app ships with a flake that has a package and a NixOS module, so putting it on the homelab takes one line of config and a rebuild.
+
+<p align="center">
+  <a href="https://github.com/DeeKahy/whatmyip"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=1300&color=CBA6F7&center=true&vCenter=true&width=440&height=34&lines=%24+cargo+run;%24+nix+build+.%23whatmyip;services.whatmyip.enable+%3D+true;%24+curl+whatmyip.smallapp.cc" alt="$ cargo run · $ nix build .#whatmyip · services.whatmyip.enable = true · $ curl whatmyip.smallapp.cc"/></a>
+</p>
 
 <br/>
 
