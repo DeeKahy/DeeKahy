@@ -6,7 +6,7 @@
 
 [![Editor: Mitos](https://img.shields.io/badge/editor-Mitos-cba6f7?style=for-the-badge&logo=gnometerminal&logoColor=11111b&labelColor=1e1e2e)](https://mitos.computer)
 [![OS: NixOS](https://img.shields.io/badge/os-NixOS-89b4fa?style=for-the-badge&logo=nixos&logoColor=11111b&labelColor=1e1e2e)](https://nixos.org)
-[![Homelab: smallapp.cc](https://img.shields.io/badge/homelab-smallapp.cc-a6e3a1?style=for-the-badge&logo=proxmox&logoColor=11111b&labelColor=1e1e2e)](https://chainbloom.smallapp.cc)
+[![Homelab: smallapp.cc](https://img.shields.io/badge/homelab-smallapp.cc-a6e3a1?style=for-the-badge&logo=proxmox&logoColor=11111b&labelColor=1e1e2e)](#-the-homelab)
 [![Based in Denmark](https://img.shields.io/badge/based_in-Denmark-f38ba8?style=for-the-badge&logo=googlemaps&logoColor=11111b&labelColor=1e1e2e)](#)
 
 </div>

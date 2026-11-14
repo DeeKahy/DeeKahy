@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
-"""Generate the animated SVGs for the DeeKahy profile README."""
-Usage: python3 assets/generate.py .  (writes assets/hero.svg and assets/mitos.svg)
+"""Generate the animated SVGs for the DeeKahy profile README.
+
+Usage: python3 assets/generate.py .   (rewrites assets/hero.svg and assets/mitos.svg)
+"""
 import random, sys
 from html import escape
 
